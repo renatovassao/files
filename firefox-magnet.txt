@@ -1,0 +1,7 @@
+1. Open Firefox and type in about:config in the Address Bar and hit Enter.
+2. Type in enter handler.expose in the search box at the top of the list.
+3. right click - New - Boolean
+4. Enter the preference name network.protocol-handler.expose.magnet
+5. Set its value to false
+6. Click on the magnet link and you should see Firefox’s Launch Application Choose Dialog
+7. Select your torrent client. 
